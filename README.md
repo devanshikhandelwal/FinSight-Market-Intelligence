@@ -100,6 +100,15 @@ streamlit run app.py
 The dashboard will open locally in your browser, usually at:
 
 `http://localhost:8501`
+## 🚀 Live Demo
+
+**Explore FinSight – Market Intelligence:** 
+
+[![Live Dashboard](https://img.shields.io/badge/Streamlit-Live%20Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://finsight-market-intelligence-42mxv7kdds5hhyqhgzcwzq.streamlit.app/)
+
+👉 [**Launch FinSight Dashboard**](https://finsight-market-intelligence-42mxv7kdds5hhyqhgzcwzq.streamlit.app/)
+
+Explore interactive stock market analytics, performance comparisons, risk metrics, and sector-level insights.
 
 ## Data and Analysis
 
